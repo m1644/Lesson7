@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Lesson7\Task004\bin\Debug\net6.0\Task004.exe
+D:\OneDrive\Рабочий стол\Lesson7\Task004\bin\Debug\net6.0\Task004.deps.json
+D:\OneDrive\Рабочий стол\Lesson7\Task004\bin\Debug\net6.0\Task004.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Lesson7\Task004\bin\Debug\net6.0\Task004.dll
+D:\OneDrive\Рабочий стол\Lesson7\Task004\bin\Debug\net6.0\Task004.pdb
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.dll
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\refint\Task004.dll
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.pdb
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\Task004.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Lesson7\Task004\obj\Debug\net6.0\ref\Task004.dll
